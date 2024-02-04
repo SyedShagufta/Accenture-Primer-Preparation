@@ -1,10 +1,10 @@
 # Accenture Primer Preparation Repository
 
-## Overview
+## Overview 👇😉
 
-Welcome to the Accenture Primer Preparation repository! This repository is designed to be your comprehensive guide and workspace as you prepare for the Accenture Primer test. The test is specifically tailored for freshers after onboarding, and this repository aims to cover various topics, including software fundamentals, web technologies, agile methodologies, DevOps, DevSecOps, programming using Python, RDBMS using MySQL, genAi, AWS, and coding contests in Python and MySQL.
+Welcome to the Accenture Primer Preparation repository! This repository is designed to be my comprehensive guide and workspace as I prepare for the Accenture Primer test. The test is specifically tailored for freshers after onboarding, and this repository aims to cover various topics, including software fundamentals, web technologies, agile methodologies, DevOps, DevSecOps, programming using Python, RDBMS using MySQL, genAi, AWS, and coding contests in Python and MySQL.
 
-## Table of Contents
+## Table of Contents 🎯
 
 1. [Software Fundamentals](#software-fundamentals)
 2. [Web Technologies](#web-technologies)
@@ -47,8 +47,12 @@ Delve into the cloud computing realm with Amazon Web Services (AWS). Learn about
 
 Sharpen your coding skills by participating in coding contests focusing on Python and MySQL. Solve real-world problems, compete with others, and enhance your problem-solving abilities.
 
-## Progress Tracking
+## Progress Tracking ✨🎉
 
-To track your learning journey and stay accountable, regularly update the 'Progress.md' file in the repository. Document milestones achieved, challenges faced, and future goals to ensure a systematic and organized approach to your preparation.
+To track my learning journey and stay accountable, I regularly update the files in the repository. Document milestones achieved, challenges faced, and future goals to ensure a systematic and organized approach to your preparation.
 
 Feel free to use the repository's Issues section for any queries or discussions related to your preparation. Good luck on your Accenture Primer test preparation journey! 🚀
+
+## Copyrights ©️
+
+© 2023 Syed Shagufta Noval. All rights reserved.
